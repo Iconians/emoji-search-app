@@ -1,0 +1,23 @@
+.search-input-wrapper {
+  display: inline-grid;
+  width: 500px;
+  margin-top: 40px;
+}
+
+.row-result {
+  width: 500px;
+  margin: auto;
+}
+
+.emoji-row-parent {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+}
+
+.emoji-row-wrapper {
+  display: flex;
+  width: fit-content;
+}
+
+.emoji-row-wrapper > input {width: 18px;}
